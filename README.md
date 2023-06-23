@@ -6,4 +6,6 @@ This is a descriptive capstone project divided into two separate sections. The m
 **File 1: nlp_1.pdf** </P>
 **1.** Email Filtering  </P>
 **2.** Automated Essay Scoring (AES) </P>
-**3.** Automated Essay Scoring (AES) </P>
+**3.** Nlp methods for for medical questions and answers </P>
+**File 1: nlp_2.pdf** </P>
+**1.** Email Filtering  </P>
